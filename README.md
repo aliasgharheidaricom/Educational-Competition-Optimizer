@@ -1,8 +1,19 @@
+[![GitHub](https://img.shields.io/github/license/aliasgharheidaricom/Educational-Competition-Optimizer)](https://github.com/aliasgharheidaricom/Educational-Competition-Optimizer/blob/main/LICENSE)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/Educational-Competition-Optimizer)](https://github.com/aliasgharheidaricom/Educational-Competition-Optimizer)
+[![GitHub repo size](https://img.shields.io/github/repo-size/aliasgharheidaricom/Educational-Competition-Optimizer)](https://github.com/aliasgharheidaricom/Educational-Competition-Optimizer)
+[![GitHub language count](https://img.shields.io/github/languages/count/aliasgharheidaricom/Educational-Competition-Optimizer)](https://github.com/aliasgharheidaricom/Educational-Competition-Optimizer)
+[![GitHub last commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/Educational-Competition-Optimizer)](https://github.com/aliasgharheidaricom/Educational-Competition-Optimizer)
+[![GitHub issues](https://img.shields.io/github/issues/aliasgharheidaricom/Educational-Competition-Optimizer)](https://github.com/aliasgharheidaricom/Educational-Competition-Optimizer/issues)
+[![GitHub forks](https://img.shields.io/github/forks/aliasgharheidaricom/Educational-Competition-Optimizer)](https://github.com/aliasgharheidaricom/Educational-Competition-Optimizer/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/aliasgharheidaricom/Educational-Competition-Optimizer)](https://github.com/aliasgharheidaricom/Educational-Competition-Optimizer/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Educational-Competition-Optimizer)](https://github.com/aliasgharheidaricom/Educational-Competition-Optimizer/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Educational-Competition-Optimizer)](https://github.com/aliasgharheidaricom/Educational-Competition-Optimizer/graphs/contributors)
+
+
 # Educational Competition Optimizer (ECO) Source Codes (Version 1.0)
 
 - **Website and codes of Educational Competition Optimizer (ECO):**
   - [ECO Website](http://www.aliasgharheidari.com/ECO.html)
-  - [GitHub Repository](https://github.com/junbolian/ECO)
 
 - **Authors:**
   - Junbo Lian: [junbolian@qq.com](mailto:junbolian@qq.com)
