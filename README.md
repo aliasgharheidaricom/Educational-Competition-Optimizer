@@ -35,7 +35,7 @@ After using the code, please cite the main paper on Educational Competition Opti
 
 **Junbo Lian, Ting Zhu, Ling Ma, Xincan Wu, Ali Asghar Heidari, Yi Chen, Huiling Chen*, Guohua Hui*.**  
 *The Educational Competition Optimizer.*  
-INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE, Taylor & Francis Online - 2024
+International journal of systems science, Taylor & Francis Online - 2024
 
 ## Related Optimization Methods
 
