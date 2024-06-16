@@ -37,7 +37,7 @@ After using the code, please cite the main paper on Educational Competition Opti
 *The Educational Competition Optimizer.*  
 International journal of systems science, Taylor & Francis Online - 2024
 
-## Related Optimization Methods
+## Comapre with other optimization methods
 
 You can use and compare ECO with other optimization methods developed recently:
 
