@@ -86,7 +86,7 @@ Algorithm 1: Pseudo-code of the ECO algorithm
 33:   End
 34:   Return the best solution
 35: End
-
+```
 
 - **Website and codes of Educational Competition Optimizer (ECO):**
   - [ECO Website](http://www.aliasgharheidari.com/ECO.html)
