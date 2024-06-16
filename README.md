@@ -10,7 +10,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Educational-Competition-Optimizer)](https://github.com/aliasgharheidaricom/Educational-Competition-Optimizer/graphs/contributors)
 
 
-# Educational Competition Optimizer (ECO) Source Codes (Version 1.0)
+# Educational Competition Optimizer (ECO)
 
 - **Website and codes of Educational Competition Optimizer (ECO):**
   - [ECO Website](http://www.aliasgharheidari.com/ECO.html)
